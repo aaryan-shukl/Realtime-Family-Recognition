@@ -12,10 +12,9 @@ body {
     margin-left: 25%;
     color: rgb(226, 252, 253);
 }
-#Capturer {
-    height: 43%;
-    width: 35%;
+#canvas {
     border-radius: 15px;
     border-width: 5.6px;
     border-color: rgb(0, 247, 255);
+    box-shadow: 7px 7px 7px rgb(155, 255, 250);
 }
